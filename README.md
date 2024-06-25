@@ -1,4 +1,6 @@
 # Projet_finale_Coursera_Semaine9
+Liens vers le Dashbord finale
+#https://lookerstudio.google.com/s/rbezsGxqMOw
 
 Dans ce projet, nous supposerons que nous avons récemment été embauchés en tant qu'analyste de données par une société mondiale de services de conseil en informatique et en affaires, connue pour son expertise en solutions informatiques et son équipe de consultants informatiques hautement expérimentés. Afin de suivre le rythme de l'évolution des technologies et de rester compétitive, notre organisation analyse régulièrement les données pour aider à identifier les futurs besoins en compétences.
 
@@ -10,5 +12,4 @@ Une fois que nous aurons collecté suffisamment de données, nous commencerons �
 
 Chaque étape du processus d'analyse des données est présentée dans différents cahiers de ce référentiel et dans quelques fichiers supplémentaires nécessaires à leur compréhension.
 
-Liens vers le Dashbord finale
-#https://lookerstudio.google.com/s/rbezsGxqMOw
+
